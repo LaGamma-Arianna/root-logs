@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: /root-logs/archive/
+permalink: /archive/
 ---
 
 ## 📂 Blog Archive
