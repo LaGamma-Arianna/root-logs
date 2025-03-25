@@ -3,7 +3,7 @@ description: Documenting the path to root, one log at a time
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
-url: "https://lagamma-arianna.github.io/root-logs/"
 baseurl: "/root-logs"
+url: "https://lagamma-arianna.github.io
 include:
   - assets/css/custom.css
