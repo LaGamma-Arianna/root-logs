@@ -2,3 +2,23 @@
 ---
 
 @import 'jekyll-theme-hacker';
+/* Hide the download buttons */
+#downloads {
+  display: none;
+}
+
+header {
+  text-align: center;
+}
+
+header .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header h1, header h2 {
+  text-align: center;
+  margin: 0.25em auto;
+}
