@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: default
 title: "Welcome to Root-Logs"
-date: 2025-03-25
 ---
 
 The terminal is open.
