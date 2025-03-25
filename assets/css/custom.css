@@ -1,0 +1,11 @@
+.btn {
+  display: none;
+}
+header {
+  text-align: center;
+}
+
+header h1,
+header p {
+  text-align: center;
+}
