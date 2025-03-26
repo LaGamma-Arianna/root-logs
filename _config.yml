@@ -4,6 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
 baseurl: "/root-logs"
-url: "https://lagamma-arianna.github.io
+url: "https://lagamma-arianna.github.io"
 include:
   - assets/css/custom.css
