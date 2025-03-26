@@ -7,3 +7,4 @@ baseurl: "/root-logs"
 url: "https://lagamma-arianna.github.io"
 include:
   - assets/css/custom.css
+permalink: /:categories/:year/:month/:day/:title/
