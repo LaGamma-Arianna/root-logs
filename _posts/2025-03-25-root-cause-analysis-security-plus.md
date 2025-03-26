@@ -13,7 +13,7 @@ The answer choices were:
 A. Media attention  
 B. Compliance with industry regulations  
 C. Legal protection  
-D. Preventing the recurrence of similar incidents
+D. Preventing the recurrence of similar incidents ✅
 
 At first glance, option D might sound obvious, but it's a fundamental concept in cybersecurity that often gets overlooked. When an incident occurs — whether it's a phishing email, a data leak, or a misconfigured cloud bucket — identifying *what happened* isn't enough. We need to dig deeper to understand *why* it happened and how to stop it from happening again.
 
@@ -85,4 +85,3 @@ The logs are open. Trace the path, dig around, and follow along if you're naviga
 
 — see you on the wire,  
 **Arianna**
-
