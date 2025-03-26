@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-permalink: https://lagamma-arianna.github.io/root-logs/archive/
+permalink: /archive/
 ---
 
 ## 📂 Blog Archive
