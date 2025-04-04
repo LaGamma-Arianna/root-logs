@@ -1,12 +1,10 @@
 ---
-layout: post
 title: "Project Phishing"
 date: 2025-04-04
+author: "A"
+estimated_reading_time: "8-10 minutes"
 ---
 
----
-Estimated reading time: ~8–10 minutes
----
 
 # How I Caught a Phishing Email — and What It Taught Me About Email Security
 
