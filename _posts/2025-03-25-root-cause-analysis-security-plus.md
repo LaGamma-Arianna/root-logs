@@ -2,6 +2,7 @@
 layout: post
 title: "Why Root Cause Analysis Matters: Lessons from Security+"
 date: 2025-03-25
+author: A
 ---
 
 When I was preparing for the CompTIA Security+ exam, one of the questions that stuck with me was:
