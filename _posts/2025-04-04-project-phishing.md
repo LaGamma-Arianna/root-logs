@@ -1,4 +1,10 @@
 ---
+layout: post
+title: "Project Phishing"
+date: 2025-04-04
+---
+
+---
 Estimated reading time: ~8–10 minutes
 ---
 
