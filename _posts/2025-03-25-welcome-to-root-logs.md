@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to Root-Logs"
 date: 2025-03-25
+author: "A"
 ---
 
 The terminal is open.
