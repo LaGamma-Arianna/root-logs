@@ -23,8 +23,7 @@ Not even close to legitimate.
 
 Trusting my instincts, I reported the email using Outlook’s "Report Message" button. Moments later, I received confirmation:
 
-![Phishing report confirmation](/assets/images/phishing-report-confirmation.png)
-
+![Phishing report confirmation](/root-logs/assets/images/phishing-report-confirmation.png)
 
 It turned out this was part of an internal phishing simulation at William & Mary.  
 The follow-up message reminded me that **91% of cyber-attacks start with phishing**, and catching these threats early plays a critical role in protecting not just ourselves, but our entire organization.
