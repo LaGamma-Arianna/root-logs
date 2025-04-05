@@ -1,15 +1,6 @@
 ---
 layout: page
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <p><small>{{ post.date | date: "%d %b %Y" }}</small></p>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
 The terminal is open.
 
 Welcome to **Root-Logs** — my personal corner of the internet where I track my journey through cybersecurity training, TryHackMe labs, and certification prep.
@@ -27,3 +18,13 @@ Logs are live. Follow the trace if you're digging into cyber too.
 —
 See you on the wire,
 **A**
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p><small>{{ post.date | date: "%d %b %Y" }}</small></p>
+      <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+    </li>
+  {% endfor %}
+</ul>
