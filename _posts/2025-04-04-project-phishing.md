@@ -12,6 +12,7 @@ estimated_reading_time: "8-10 minutes"
   </audio>
   <p><a href="{{ site.baseurl }}/assets/audio/projectphish.mp3" download>⬇️ Download the audio</a></p>
 </div>
+<!--more-->
 
 # How I Caught a Phishing Email — and What It Taught Me About Email Security
 
