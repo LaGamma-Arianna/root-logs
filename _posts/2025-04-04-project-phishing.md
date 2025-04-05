@@ -4,6 +4,12 @@ date: 2025-04-04
 author: "A"
 estimated_reading_time: "8-10 minutes"
 ---
+<p><strong>🎧 Listen to this blog post:</strong></p>
+<audio controls>
+  <source src="{{ site.baseurl }}/assets/audio/projectphish.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<p><a href="{{ site.baseurl }}/assets/audio/post-reading.mp3" download>⬇️ Download the audio</a></p>
 
 
 # How I Caught a Phishing Email — and What It Taught Me About Email Security
