@@ -4,13 +4,14 @@ date: 2025-04-04
 author: "A"
 estimated_reading_time: "8-10 minutes"
 ---
-<p><strong>🎧 Listen to this blog post:</strong></p>
-<audio controls>
-  <source src="{{ site.baseurl }}/assets/audio/projectphish.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-<p><a href="{{ site.baseurl }}/assets/audio/post-reading.mp3" download>⬇️ Download the audio</a></p>
-
+<div style="float: right; margin: 10px; text-align: center;">
+  <p><strong>🎧 Listen to this blog post:</strong></p>
+  <audio controls style="width: 200px;">
+    <source src="{{ site.baseurl }}/assets/audio/projectphish.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <p><a href="{{ site.baseurl }}/assets/audio/projectphish.mp3" download>⬇️ Download the audio</a></p>
+</div>
 
 # How I Caught a Phishing Email — and What It Taught Me About Email Security
 
@@ -226,7 +227,11 @@ Before you go, see how much you remember:
    - C) Wannacry
 
 *Answers:*  
-1. A | 2. A | 3. B | 4. A | 5. A
+1. A
+2. A
+3. B
+4. A
+5. A
 
 ---
 
