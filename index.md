@@ -1,8 +1,16 @@
 ---
-layout: default
+layout: page
 title: "Welcome to Root-Logs"
 ---
-
+<ul>
+    {% for post in paginator.posts %}
+      <li>
+          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+      </li>
+    {% endfor %}
+</ul>
 The terminal is open.
 
 Welcome to **Root-Logs** — my personal corner of the internet where I track my journey through cybersecurity training, TryHackMe labs, and certification prep.
