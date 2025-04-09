@@ -1,6 +1,6 @@
 ---
 title: "Exploring Networking with Cisco Packet Tracer: Self-Paced Sim, Real-World Lessons (and Some Laughs)"
-date: 2025-04-07
+date: 2025-04-09
 author: "arianna@root-logs"
 description: "A lighthearted reflection on completing Cisco's Packet Tracer course — from frustrating cable bendpoints to surprise cricket music, and learning to navigate the sim like a pro."
 tags: ["Cisco Packet Tracer", "Networking", "Network Simulation", "Self-Paced Learning", "Tech Blog", "Structured Cabling", "Bluetooth", "Network Controller", "Beginner Networking"]
