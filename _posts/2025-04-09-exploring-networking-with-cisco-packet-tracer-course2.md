@@ -7,8 +7,6 @@ tags: ["Cisco Packet Tracer", "Networking", "Network Simulation", "Self-Paced Le
 categories: ["Networking", "Learning Journey"]
 ---
 
-# Exploring Networking with Cisco Packet Tracer: Self-Paced Sim, Real-World Lessons (and Some Laughs)
-
 Today, I completed the 3-hour self-paced course **"Exploring Networking with Cisco Packet Tracer"** on NetAcad.com.  
 
 I went into this course genuinely excited about the idea of building a home network — *without the risk of accidentally messing up my real one.*  
