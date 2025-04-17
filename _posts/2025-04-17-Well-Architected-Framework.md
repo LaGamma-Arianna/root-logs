@@ -184,5 +184,3 @@ d. Resilience
 **Why:** It’s the eco-conscious pillar—focused on minimizing environmental impact.
 
 ---
-
-**Let me know what your “cloud base” looks like so far—or if you want printable study guides, flashcards, or more AWS cheat sheets!**
