@@ -1,5 +1,5 @@
 ---
-title: "Building Your AWS Empire: The Well-Architected Framework as Your Game Strategy Guide"
+title: " 🎮 Building Your AWS Empire: The Well-Architected Framework as Your Game Strategy Guide"
 date: 2025-04-17
 author: "arianna@root-logs"
 description: "A fun, strategy-game-inspired breakdown of the AWS Well-Architected Framework — how to build secure, cost-effective, and scalable cloud infrastructure like a pro."
@@ -7,9 +7,7 @@ tags: ["AWS", "Cloud Practitioner", "Well-Architected Framework", "Cloud Archite
 categories: ["AWS Learning", "Cloud Fundamentals"]
 ---
 
-# 🎮 Building Your AWS Empire: The Well-Architected Framework as Your Game Strategy Guide
-
-When I started studying for the **AWS Certified Cloud Practitioner** exam, I didn’t expect to compare it to one of my favorite pastimes: **strategy games**. But then I found the **Well-Architected Framework**, and it clicked.
+When I started studying for the **AWS Certified Cloud Practitioner** exam, I didn’t expect to compare it to one of my favorite pastimes growing up: **strategy games**. But then I found the **Well-Architected Framework**, and it clicked.
 
 **Designing a good cloud system is like building a strong base in a game.**  
 You need the right buildings, defenses, upgrades, and resource management. Without a solid foundation, your empire falls apart—or your EC2 bill explodes.
